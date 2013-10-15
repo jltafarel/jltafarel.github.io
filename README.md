@@ -1,2 +1,1 @@
-jltafarel.github.io
-===================
+My Personal Blog.
