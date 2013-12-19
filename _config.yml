@@ -1,3 +1,12 @@
 name: Tafarel's Blog
+description: Nerd, programador e pseudo-músico.
+meta_description: "Tafarel's Blog"
+
 markdown: redcarpet
 pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'jltafarel.github.io'
+author:         'Jose Luiz Tafarel'
