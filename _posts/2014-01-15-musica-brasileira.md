@@ -23,4 +23,4 @@ E finalizando, uma banda aqui da região, Suntribo. Banda de Brutal Death Metal 
 O apoio às bandas regionais e nacionais vem sendo muito forte aqui na região, apesar de ser pequeno se comparado a outros, mas a união e vontade de quem curte música pesada é muito maior.
 
 Estou extremamente para assistir a este último DVD do Angra, Angels Cry -- 20th Anniversary Tour.
-<iframe width="420" height="315" src="//www.youtube.com/embed/XiBRTyAldU8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="//www.youtube.com/embed/XiBRTyAldU8" frameboredr="0" allowfullscreen></iframe>
