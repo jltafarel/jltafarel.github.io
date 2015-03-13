@@ -1,12 +1,19 @@
 name: Tafarel's Blog
-description: Nerd, programador e pseudo-músico.
+description:
 meta_description: "Tafarel's Blog"
 
-markdown: redcarpet
-pygments: true
-logo: false
-paginate: 15
+# Site settings
+title: Tafarel's Blog
+email: jltafarel@gmail.com
+description: "Nerd, programador e pseudo-músico."
+url: "http://jltafarel.github.io"
+twitter_username: jltafarel
+github_username:  jltafarel
+facebook_username:  jltafarel
 
-# Details for the RSS feed generator
-url:            'jltafarel.github.io'
-author:         'Jose Luiz Tafarel'
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

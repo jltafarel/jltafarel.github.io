@@ -3,6 +3,7 @@ layout: post
 title:  "Novo Layout"
 date:   2013-12-19 21:30:00
 categories: geral
+author: Jose Luiz Tafarel
 ---
 Depois de muito tempo com o blog não ativo resolvi dar um up por aqui, começando pelo layout.
 
@@ -13,6 +14,7 @@ Este é o [kasper][kasper], um tema simples, mas que vem com algumas coisas lega
 Pra quem se interessar em temas para o jekyll pode encontrar [aqui][themes].
 
 Tudo isso foi feito ao som de Sonata Arctica.
+
 <iframe width="420" height="315" src="//www.youtube.com/embed/LObaU8zTJeQ" frameborder="0" allowfullscreen></iframe>
 
 [kasper]: https://github.com/rosario/kasper

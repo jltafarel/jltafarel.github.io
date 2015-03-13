@@ -1,25 +1,28 @@
 ---
 layout: default
 ---
+<!-- Page Header -->
+<header class="intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="site-heading">
+          <h2>{{ site.title }}</h2>
+          <hr class="small">
+          <span class="subheading">{{ site.description }}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
 
-<main class="content" role="main">
-    <article class="post">
-        <header class="post-header">
-            <a id="blog-logo" href="{{site.baseurl}}">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="{{ site.name }}" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
-            </a>
-        </header>
+<!-- Main Content -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {{ content }}
+    </div>
+  </div>
+</div>
 
-        <h1 class="post-title">{{ page.title }}</h1>
-
-        <section class="post-content">
-            {{content}}
-        </section>
-
-    </article>
-
-</main>
+<hr>

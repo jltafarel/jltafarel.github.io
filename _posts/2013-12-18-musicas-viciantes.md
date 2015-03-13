@@ -3,6 +3,7 @@ layout: post
 title:  "Músicas que marcaram o ano - parte 1"
 date:   2013-12-18 23:35:00
 categories: geral
+author: Jose Luiz Tafarel
 ---
 Esse foi o meu melhor ano, sem sobra de dúvidas, e nada melhor que mostrar a trilha sonora desse maravilhoso
 ano, que alimentaram algumas linhas de código por aí. Tem de tudo, desde músicas eletrônica dos anos 70 e 80 até black metal.

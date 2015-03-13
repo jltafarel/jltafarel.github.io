@@ -3,6 +3,7 @@ layout: post
 title:  "6 meses de Invent.to e o dia 1° de agosto na minha vida"
 date:   2014-02-03 18:30:00
 categories: geral
+author: Jose Luiz Tafarel
 ---
 A [Invent.to][inventto] faz 1 ano nesses dias, e eu no dia 1° de fevereiro, faço oficialmente 6 meses de colaboração.
 

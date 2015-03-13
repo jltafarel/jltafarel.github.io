@@ -3,6 +3,7 @@ layout: post
 title:  "Rails Rumble"
 date:   2013-10-15 08:40:00
 categories: geral
+author: Jose Luiz Tafarel
 ---
 Fim de semana tem [Rails Rumble][rails-rumble]. Estou putamente empolgado, porém, minha namorada, a senhorita [Adriane Forner][fb] não tanto AOKSOPak.
 
