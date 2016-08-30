@@ -1,0 +1,34 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://jltafarel.github.io/vitae
+author: Jose Luiz Tafarel
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Currículo de Jose Luiz Tafarel
+name: Jose Luiz Tafarel
+email: jltafarel@gmail.com
+email_full: mailto:jltafarel@gmail.com
+website: jltafarel.github.io/blog
+website_full: https://jltafarel.github.io/blog
+github: jltafarel
+twitter: jltafarel
+tel: +55 46 9134 2327
+tel_full: tel:+554691342327
+google_maps: 'https://www.google.com.br/maps/place/R.+Urubuci,+2+-+Centro,+Francisco+Beltr%C3%A3o+-+PR,+85601-260/@-26.0757925,-53.0552552,17z/data=!4m8!1m2!2m1!1sRua+Urubici+francisco+beltrao!3m4!1s0x94f072ce2c78c47b:0xbe76847b904401d3!8m2!3d-26.0749543!4d-53.0539892?hl=pt-BR'
+address: Rua Urubuci, 200. Ap. 206
+postcode: 85601-260
+city: Francisco Beltrão - PR
+country: Brasil
+
+# needed for travis-ci build
+exclude: [vendor]
