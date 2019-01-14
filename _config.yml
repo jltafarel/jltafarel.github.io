@@ -22,12 +22,12 @@ website: jltafarel.github.io
 website_full: https://jltafarel.github.io
 github: jltafarel
 twitter: jltafarel
-tel: +55 46 9134 2327
-tel_full: tel:+554691342327
-google_maps: 'https://www.google.com.br/maps/place/R.+Urubuci,+2+-+Centro,+Francisco+Beltr%C3%A3o+-+PR,+85601-260/@-26.0757925,-53.0552552,17z/data=!4m8!1m2!2m1!1sRua+Urubici+francisco+beltrao!3m4!1s0x94f072ce2c78c47b:0xbe76847b904401d3!8m2!3d-26.0749543!4d-53.0539892?hl=pt-BR'
-address: Rua Urubuci, 200. Ap. 206
-postcode: 85601-260
-city: Francisco Beltrão - PR
+tel: +55 46 99907 5177
+tel_full: tel:+5546999075177
+google_maps: https://www.google.com/maps/place/25%C2%B058'17.2%22S+52%C2%B049'18.0%22W/@-25.9715128,-52.8237405,17z/data=!4m14!1m7!3m6!1s0x94f01b2de5e2616f:0xa6af818c0bb48920!2sRua+Eudes+Pichetti,+Itapejara+D'Oeste+-+PR,+85580-000!3b1!8m2!3d-25.9715128!4d-52.8215518!3m5!1s0x94f01b2de65f7013:0xbf307095ec489832!7e2!8m2!3d-25.9714374!4d-52.8216527
+address: Rua Eudes Pichetti, 251
+postcode: 85580-000
+city: Itapejara d'Oeste - PR
 country: Brasil
 
 # needed for travis-ci build
